@@ -1,13 +1,9 @@
-Olá, Meu nome é Ruan 👋 <br>
 Hi, my name's Ruan👋
 ========================================
-
-    Estudante de Ciência da Computação
-         Science computer student
-    
+    I'm a Science computer student
 ----------------------------------------
 
-Estagiando com Front End na Code n' App 
+Working as a Front End Developer at Code n' App 
 
 * 🌍  Vila Velha, Brazil
 * ✉️  Contact : [ruan0803@icloud.com](mailto:ruan0803@icloud.com)
