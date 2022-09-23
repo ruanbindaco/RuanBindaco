@@ -1,4 +1,4 @@
-Hi, my name's Ruan👋
+Hey, I'm Ruan👋
 ========================================
     I'm a Science computer student
 ----------------------------------------
