@@ -8,7 +8,7 @@ Working as a Front End Developer at Code n' App
 * 🌍  Vila Velha, Brazil
 * ✉️  Contact : [ruan0803@icloud.com](mailto:ruan0803@icloud.com)
 * 🚀  Working on: [Code n' App](https://codenapp.com/)
-* 🎯  Skills: HTML, CSS, JS, Angular, VueJS, TS, Node, MySQL, C, C# e Java: POO
+* 🎯  Skills: HTML, CSS, JS, Angular, VueJS, TS
 
 [![ruanbindaco](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanbindaco&hide=html&layout=compact&theme=tokyonight)](https://github.com/ruanbindaco/)
 
