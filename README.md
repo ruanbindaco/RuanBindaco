@@ -1,7 +1,4 @@
 Hey, I'm Ruan👋
-========================================
-    I'm a Science computer student
-----------------------------------------
 
 Working as a Front End Developer at Code n' App 
 
