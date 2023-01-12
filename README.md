@@ -1,4 +1,4 @@
-Hey, I'm Ruan👋
+Hey, I'm Ruan👋🏽
 
 Working as a Front End Developer at Code n' App 
 
